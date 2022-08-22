@@ -7,8 +7,6 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="musicBean"
-          class="by.smirnov.springtest.ClassicalMusic">
-    </bean>
+    <context:component-scan base-package="by.smirnov.springtest"/>
 
 </beans>
