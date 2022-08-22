@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79584bb8-07fb-47f6-824f-459324cafff7" name="Changes" comment="Test @Value, @Scope, @PostConstruct, @PreDestroy">
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/TestSpring3.java" afterDir="false" />
+    <list default="true" id="79584bb8-07fb-47f6-824f-459324cafff7" name="Changes" comment="Test Java Configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/smirnov/springtest/SpringConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660813631914</updated>
-      <workItem from="1660813633746" duration="13720000" />
+      <workItem from="1660813633746" duration="14440000" />
     </task>
     <task id="LOCAL-00001" summary="Test 1">
       <created>1661150151396</created>
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661160707244</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test Java Configuration">
+      <created>1661161240433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661161240433</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +177,7 @@
     <MESSAGE value="Test @Autowired" />
     <MESSAGE value="Test @Qualifier" />
     <MESSAGE value="Test @Value, @Scope, @PostConstruct, @PreDestroy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test @Value, @Scope, @PostConstruct, @PreDestroy" />
+    <MESSAGE value="Test Java Configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Java Configuration" />
   </component>
 </project>
